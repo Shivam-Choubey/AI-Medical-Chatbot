@@ -1,0 +1,2 @@
+## 🩺 AI Medical Chatbot (RAG-Powered)
+An enterprise-grade conversational AI system designed to provide medical information and consultation assistance. This chatbot utilizes Retrieval-Augmented Generation (RAG) to provide grounded, context-aware answers from a trusted medical knowledge base.
